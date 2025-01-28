@@ -1,0 +1,25 @@
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;  
+    margin: auto; 
+}
+
+body {
+    background-color: rgba(228, 185, 31, 0.866);
+   
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+   flex-direction: column;
+   gap: 10px;
+    max-width: min-content;
+    place-items: center;
+}
